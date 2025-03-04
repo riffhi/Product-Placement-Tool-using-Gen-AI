@@ -1,0 +1,82 @@
+[
+  {
+    "path": "background\\background_bedroom_745873982.png",
+    "category": "bedroom",
+    "prompt": "luxury hotel bedroom with elegant decor, bedside tables",
+    "seed": 745873982,
+    "width": 768,
+    "height": 768
+  },
+  {
+    "path": "background\\background_office_450073296.png",
+    "category": "office",
+    "prompt": "creative office space with desk, art supplies, organized shelving",
+    "seed": 450073296,
+    "width": 768,
+    "height": 768
+  },
+  {
+    "path": "background\\background_bedroom_406375333.png",
+    "category": "bedroom",
+    "prompt": "minimal bedroom interior with large windows, bedside table",
+    "seed": 406375333,
+    "width": 768,
+    "height": 768
+  },
+  {
+    "path": "background\\background_kitchen_1293290569.png",
+    "category": "kitchen",
+    "prompt": "luxury kitchen with high-end appliances, spacious countertops",
+    "seed": 1293290569,
+    "width": 768,
+    "height": 768
+  },
+  {
+    "path": "background\\background_living_room_1466054180.png",
+    "category": "living_room",
+    "prompt": "industrial style loft living room with brick walls, large windows",
+    "seed": 1466054180,
+    "width": 768,
+    "height": 768
+  },
+  {
+    "path": "background\\background_dining_room_787573052.png",
+    "category": "dining_room",
+    "prompt": "elegant dining room with table set, soft lighting, neutral colors",
+    "seed": 787573052,
+    "width": 768,
+    "height": 768
+  },
+  {
+    "path": "background\\background_dining_room_1917605050.png",
+    "category": "dining_room",
+    "prompt": "cozy dining nook with round table, natural light",
+    "seed": 1917605050,
+    "width": 768,
+    "height": 768
+  },
+  {
+    "path": "background\\background_office_986188586.png",
+    "category": "office",
+    "prompt": "home office with desk, natural light, minimalist design",
+    "seed": 986188586,
+    "width": 768,
+    "height": 768
+  },
+  {
+    "path": "background\\background_living_room_343991201.png",
+    "category": "living_room",
+    "prompt": "luxury living room with fireplace, high ceilings, elegant decor",
+    "seed": 343991201,
+    "width": 768,
+    "height": 768
+  },
+  {
+    "path": "background\\background_kitchen_201417491.png",
+    "category": "kitchen",
+    "prompt": "luxury kitchen with high-end appliances, spacious countertops",
+    "seed": 201417491,
+    "width": 768,
+    "height": 768
+  }
+]

@@ -37,17 +37,25 @@ git clone https://github.com/riffhi/Product-Placement-Tool-using-Gen-AI.git
 cd Product-Placement-Tool-using-Gen-AI
 ```
 
-### Step 2: Install Dependencies
+### Step 2: Set Up a Virtual Environment
+Create and activate a Python 10 virtual environment:
+```bash
+python -m venv venv
+source venv/bin/activate  # On macOS/Linux
+venv\Scripts\activate  # On Windows
+```
+
+### Step 3: Install Dependencies
 Install the required Python libraries:
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 3: Prepare Input Data
+### Step 4: Prepare Input Data
 - Place product images in the `products/` folder.
 - Place background images in the `backgrounds/` folder.
 
-### Step 4: Run the Tool
+### Step 5: Run the Tool
 Run the tool with the following command:
 ```bash
 python product_placement.py --products products/ --backgrounds backgrounds/ --output results/
@@ -64,7 +72,7 @@ python product_placement.py --products products/ --backgrounds backgrounds/ --ou
 | `--steps`       | Number of inference steps                        | 30 |
 | `--guidance_scale` | Guidance scale for Stable Diffusion         | 9.0 |
 
-### Step 5: View Results
+### Step 6: View Results
 - Generated images will be saved in the `results/` folder.
 - A summary of results will be saved as `results_summary.json` in the output directory.
 
